@@ -7,4 +7,4 @@ npm start
 
 Visit localhost:3000 in the browser.
 
-Screenshot 2020-01-21 at 21.55.24.png
+
