@@ -1,35 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# React Bootstrap
+This is a 5 day weather app for cities across the UK built using React JS.
 
-React boilerplate project for Manchester Codes' projects.
+To start the app
 
-## Getting Started
-
-### Clone down this repository (replace `<your_project_name>`:
-
-```bash
-git clone git@github.com:MCRcodes/react-bootstrap.git <your_project_name>
-```
-
-### Install dependencies
-
-```bash
 npm install
-```
 
-### Start up the application:
-
-```bash
 npm start
-```
 
-### Visit `localhost:3000` in your browser.
+Visit localhost:3000 in the browser.
 
-You should see a **Hello World** message.
+<img width="1238" alt="Screenshot 2020-01-21 at 21 55 24" src="https://user-images.githubusercontent.com/53915643/72881144-1f207c00-3cf8-11ea-9aca-4bc55982f356.png">
 
-### Change the rendered output
 
-You can change what is mounted to the DOM in `src/index.js`.
-
-It might be a good idea to make an `App` component inside `App.jsx` (will likely handle your layout and routing), and to mount this to the DOM.
