@@ -45,7 +45,7 @@ class SearchForm extends React.Component {
 }
 
 SearchForm.propTypes = {
-  handleInputChange: PropTypes.func.isRequired,
+  handleInputSearchClick: PropTypes.func.isRequired,
 };
 
 export default SearchForm;

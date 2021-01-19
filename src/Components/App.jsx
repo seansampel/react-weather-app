@@ -37,6 +37,7 @@ class App extends React.Component {
       });
     });
   }
+
   handleInputSearchClick(city) {
     axios
       .get(`https://mcr-codes-weather.herokuapp.com/forecast?city=${city}`)
